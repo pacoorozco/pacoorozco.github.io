@@ -29,7 +29,8 @@ twitter_username: pakusland
 github_username:  pacoorozco
 
 # Build settings
-theme: minima
+#theme: minima
+remote-theme: mediumish 
 plugins:
   - jekyll-feed
 
