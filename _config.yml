@@ -30,7 +30,7 @@ github_username:  pacoorozco
 
 # Build settings
 #theme: minima
-remote-theme: mundana 
+remote-theme: wowthemesnet/mediumish-theme-jekyll
 plugins:
   - jekyll-feed
 
