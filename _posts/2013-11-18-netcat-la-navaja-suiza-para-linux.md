@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Netcat: la navaja suiza para linux"
 tags: backup herramientas linux shell
 date:   2013-11-18 10:07:00 +0100

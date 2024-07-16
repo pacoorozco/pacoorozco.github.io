@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "VMworld 2013: Las tres (bueno cuatro) cosas que más me gustaron"
 tags: autoservicio BYOD cloud computing ISO27001 private cloud SDDC SDN seguridad vmware vmworld
 date:   2013-11-12 10:12:00 +0100

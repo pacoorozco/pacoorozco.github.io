@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sólo para tus ojos: las 13 canciones más frikis"
 tags: humor informática música programación redes
 date:   2013-11-22 09:07:00 +0100

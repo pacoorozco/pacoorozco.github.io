@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "¿Son las software defined networks el futuro de la red?"
 tags: autoservicio BYOD cloud computing NSX SDN software defined networking
 date:   2013-11-19 20:14:00 +0100

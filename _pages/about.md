@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: ¿Quién soy?
 permalink: /quien-es-paco-orozco
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tu cloud privado: ¿que elegir? ¿software libre o propietario?"
 tags: cloudstack ESXi openstack private cloud vmware xen
 date:   2013-11-12 10:12:00 +0100
