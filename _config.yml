@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paco Orozco
-email: paco@pacoorozco.info
-description: >- # this means to ignore newlines until "baseurl:"
-  Engineering Manager at Adevinta focalizado en el diseño de servicios a escala 
-  global: media delivery services and GDPR compliance.
+name: "Paco Orozco"
+title: "Paco Orozco"
+#description: "Engineering Manager at Adevinta focalizado en el diseño de servicios a escala global: media delivery services and GDPR compliance."
+#logo: 'assets/images/logo.png'
+#favicon: 'assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pakusland
-github_username:  pacoorozco
+#include: ["_pages"]
+permalink: /:slug
 
 # Build settings
 theme: mediumish
@@ -38,6 +37,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# Authors
+authors:
+  paco:
+    name: Paco Orozco
+    display_name: Paco
+    avatar: assets/img/PacoOrozco_Adevinta_640.jpg
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: paco@pacoorozco.info
+    web: https://pacoorozco.info
+    twitter: https://twitter.com/pakusland
+    description: "Engineering Manager at Adevinta focalizado en el diseño de servicios a escala global: media delivery services and GDPR compliance."
 
 # Pagination 
 paginate: 6
@@ -63,4 +74,3 @@ paginate_path: /page:num/
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: /:slug

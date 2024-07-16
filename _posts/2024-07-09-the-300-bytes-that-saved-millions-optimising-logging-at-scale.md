@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "The 300 Bytes That Saved Millions: Optimising Logging at Scale"
-tags: humor informática música programación redes
+author: paco
+tags: [logging, cost reduction, scalability, kaizen, adevinta]
+image: assets/img/800px-Xerxes_all_ethnicities.jpg
 date:   2024-07-09 15:11:00 +0100
 excerpt_separator: <!--more-->
 featured: true
