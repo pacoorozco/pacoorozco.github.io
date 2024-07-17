@@ -1,6 +1,6 @@
 ---
 title:  "Improving your application performance seamlessly using the newest image formats"
-tags: webp avif Adevinta Image Optimization
+tags: [webp, avif, adevinta, image optimization]
 date:   2023-10-23 13:12:00 +0100
 excerpt_separator: <!--more-->
 ---
