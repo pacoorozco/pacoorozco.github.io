@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paco Orozco"
+title                    : "Scaling Success"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Engineering Insights with me, Paco Orozco"
 name                     : "Paco Orozco"
-description              : "An amazing website."
+description              : "Dive into the world of technology and engineering management as I share my experiences and insights on Linux, large-scale systems, and people management."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -61,7 +61,7 @@ social:
 author:
   name             : "Paco Orozco"
   avatar           : /assets/img/PacoOrozco_500x500.jpg
-  bio              : "Engineering Manager at Adevinta focalizado en el diseño de servicios a escala global: media delivery services and GDPR compliance."
+  bio              : "Engineering Manager focused on designing global-scale services. I began as a network technician at UPCnet, and now delivering media delivery and GDPR compliance services at Adevinta."
   location         : "Piera, Barcelona"
   links:
     - label: "LinkedIn"
