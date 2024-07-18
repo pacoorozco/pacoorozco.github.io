@@ -1,6 +1,6 @@
 ---
 title:  "Sólo para tus ojos: las 13 canciones más frikis"
-tags: humor informática música programación redes
+category: off-topic
 date:   2013-11-22 09:07:00 +0100
 excerpt_separator: <!--more-->
 permalink: /archivo/solo-para-tus-ojos-las-13-canciones-mas-frikis
@@ -12,4 +12,4 @@ Si eres informático, programador o te dedicas al mundo de las redes: **¡No te 
 
 Del éxito de **Chumbawamba**, Tubthumping, una parodia relacionada con el mundo de las redes y sus sufridos administradores. Con todos vosotros, **GigFlapping**.
 
-[![Chumbawamba - GigFlapping (Tubthumping Parody, with english subs)](https://img.youtube.com/vi/9k6A0ZlhTyw/mqdefault.jpg)](https://www.youtube.com/watch?v=9k6A0ZlhTyw)
+{% include video id="9k6A0ZlhTyw" provider="youtube" %}

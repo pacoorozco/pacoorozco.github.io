@@ -1,6 +1,7 @@
 ---
 title:  "Netcat: la navaja suiza para linux"
-tags: backup herramientas linux shell
+tags: [backup, linux, terminal]
+category: linux
 date:   2013-11-18 10:07:00 +0100
 excerpt_separator: <!--more-->
 permalink: /archivo/netcat-la-navaja-suiza-para-linux

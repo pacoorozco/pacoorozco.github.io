@@ -1,6 +1,6 @@
 ---
 title:  "Presentación de VDC 2.0: el cloud de Telefónica"
-tags: humor informática música programación redes
+category: cloud computing
 date:   2013-11-29 19:11:00 +0100
 excerpt_separator: <!--more-->
 permalink: /archivo/presentacion-de-vdc-2-0-el-cloud-de-telefonica/

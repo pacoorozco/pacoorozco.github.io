@@ -1,6 +1,7 @@
 ---
 title:  "Improving your application performance seamlessly using the newest image formats"
 tags: [webp, avif, adevinta, image optimization]
+category: success stories
 date:   2023-10-23 13:12:00 +0100
 excerpt_separator: <!--more-->
 ---
