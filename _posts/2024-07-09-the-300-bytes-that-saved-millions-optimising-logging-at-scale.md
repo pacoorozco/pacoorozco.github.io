@@ -3,7 +3,7 @@ title:  "The 300 Bytes That Saved Millions: Optimising Logging at Scale"
 tags: [logging, cost reduction, scalability, kaizen, adevinta]
 category: success stories
 date:   2024-07-09 15:11:00 +0100
-excerpt_separator: <!--more-->
+excerpt: "Tiny changes can have a big impact. By optimizing our logging pipeline at Adevinta, we saved over €30K annually, showcasing the power of strategic adjustments."
 ---
 
 > Published in [Medium](https://medium.com/adevinta-tech-blog/the-300-bytes-that-saved-millions-optimising-logging-at-scale-93964a13559c) and [Adevinta](https://adevinta.com/techblog/the-300-bytes-that-saved-millions-optimising-logging-at-scale/)

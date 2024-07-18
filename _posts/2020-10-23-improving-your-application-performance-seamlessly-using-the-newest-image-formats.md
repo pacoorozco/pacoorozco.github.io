@@ -3,7 +3,7 @@ title:  "Improving your application performance seamlessly using the newest imag
 tags: [webp, avif, adevinta, image optimization]
 category: success stories
 date:   2023-10-23 13:12:00 +0100
-excerpt_separator: <!--more-->
+excerpt: "Improve page load speeds by using WebP and AVIF image formats without sacrificing quality. Learn how Adevinta’s YAMS service streamlines this process for optimal user experience and reduced bounce rates."
 ---
 
 > Published in [Medium](https://medium.com/adevinta-tech-blog/improving-your-application-performance-seamlessly-using-the-newest-image-formats-9b592c837b59)
@@ -13,8 +13,6 @@ The importance of images in connecting users with your products has been proven,
 If you are able to reduce the size of your images without reducing image quality, then it will have a direct and positive impact on page load speeds and user experience. Join me to see how image formats like WebP and AVIF can help you with this challenge, and how Adevintans can do it seamlessly thanks to YAMS.
 
 *YAMS (Yet Another Media Service) is a media content delivery service provided by Adevinta’s Data & Privacy tribe. More than 20 marketplaces in [Adevinta](https://adevinta.com/) rely on it to deliver 230 million images and videos daily.*
-
-<!--more-->
 
 ## What is WebP?
 
