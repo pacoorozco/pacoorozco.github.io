@@ -31,7 +31,7 @@ The key takeaways were to **assess problems bravely, improve testing, communicat
 
 On the funny side of the story, one of my team colleagues shared this question which I had to reply.
 
-![Funny question](/assets/img/Paco_at_DevOps_Pro_Europe_2024.jpg){: .align-center}
+![Funny question](/assets/img/Question_at_DevOps_Pro_Europe_2024.jpg){: .align-center}
 
 Overall, it was a successful migration that doubled traffic while modernizing the API gateway, thanks to the Edge team's preparation and perseverance.
 
