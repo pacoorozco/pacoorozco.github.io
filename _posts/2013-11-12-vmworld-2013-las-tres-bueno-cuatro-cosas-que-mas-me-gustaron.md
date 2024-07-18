@@ -4,7 +4,7 @@ tags: [BYOD, private cloud, SDDC, SDN, vmware]
 category: cloud computing
 date:   2013-11-12 10:12:00 +0100
 excerpt_separator: <!--more-->
-permalink: /archivo/vmworld-2013-las-tres-bueno-cuatro-cosas-que-mas-me-gustaron
+permalink: /archivo/vmworld-2013-las-tres-bueno-cuatro-cosas-que-mas-me-gustaron/
 ---
 
 ![Mi VMware badge](/assets/img/vmware_badge.jpg)  

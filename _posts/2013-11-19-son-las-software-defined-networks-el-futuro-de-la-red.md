@@ -4,7 +4,7 @@ tags: [BYOD, SDN]
 category: cloud computing
 date:   2013-11-19 20:14:00 +0100
 excerpt_separator: <!--more-->
-permalink: /archivo/son-las-software-defined-networks-el-futuro-de-la-red
+permalink: /archivo/son-las-software-defined-networks-el-futuro-de-la-red/
 ---
 
 [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) es el concepto de moda desde que VMware adquirió Nicira el [verano pasado](https://www.vmware.com/company/news/releases/vmw-nicira-07-23-12.html), algunos meses después Google anunció que estaba usando OpenFlow para [optimizar](https://www.eetimes.com/electronics-news/4371179/Google-describes-its-OpenFlow-network) su backbone interno y el término volvió a ser actualidad.

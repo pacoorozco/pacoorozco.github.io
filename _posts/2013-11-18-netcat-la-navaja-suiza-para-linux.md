@@ -4,7 +4,7 @@ tags: [backup, linux, terminal]
 category: linux
 date:   2013-11-18 10:07:00 +0100
 excerpt_separator: <!--more-->
-permalink: /archivo/netcat-la-navaja-suiza-para-linux
+permalink: /archivo/netcat-la-navaja-suiza-para-linux/
 ---
 
 Hace algún tiempo descubrí una herramienta llamada [netcat](https://netcat.sourceforge.net/). En muchos lugares la bautizan como **la navaja suiza** ya que este comando puede servir para mil y una tareas. En un principio la subestimé, pero poco después se ha convertido en una de mis aliadas favoritas.
