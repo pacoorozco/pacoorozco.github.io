@@ -15,9 +15,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Scaling Success"
+title                    : "Paco Orozco"
 title_separator          : "|"
-subtitle                 : "Engineering Insights with me, Paco Orozco"
+subtitle                 : "Engineering Insights with me"
 name                     : "Paco Orozco"
 description              : "Dive into the world of technology and engineering management as I share my experiences and insights on Linux, large-scale systems, and people management."
 url                      : "https://pacoorozco.info"
